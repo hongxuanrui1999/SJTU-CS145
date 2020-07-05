@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab03/lab03.srcs/sources_1/new/ALU.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab03/lab03.srcs/sources_1/new/ALUCtr.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab03/lab03.srcs/sources_1/new/Ctr.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/new/InstMemory.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab04again/lab04again.srcs/sources_1/new/Registers.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/new/Top.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab04again/lab04again.srcs/sources_1/new/dataMemory.v" \
+"../../../../project_5finalllllllll.srcs/sources_1/imports/archlabs/lab04again/lab04again.srcs/sources_1/new/signext.v" \
+"../../../../project_5finalllllllll.srcs/sim_1/new/Top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,11 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/archlabs/protect_3_lab03/protect_3.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/ALUCtr_tb.v,1557835740,verilog,,,,ALUCtr_tb,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/ALU_tb.v,1557853723,verilog,,,,ALU_tb,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/Ctr_tb.v,1557767969,verilog,,,,Ctr_tb,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sources_1/new/ALU.v,1557852033,verilog,,C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/ALU_tb.v,,ALU,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sources_1/new/ALUCtr.v,1557835929,verilog,,C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/ALUCtr_tb.v,,ALUCtr,,,,,,,,
+C:/archlabs/protect_3_lab03/protect_3.srcs/sources_1/new/Ctr.v,1557816028,verilog,,C:/archlabs/protect_3_lab03/protect_3.srcs/sim_1/new/Ctr_tb.v,,Ctr,,,,,,,,

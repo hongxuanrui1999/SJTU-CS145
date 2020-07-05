@@ -1,0 +1,94 @@
+/*
+
+Xilinx Vivado v2018.1 (64-bit) [Major: 2018, Minor: 1]
+SW Build: 2188600 on Wed Apr  4 18:40:38 MDT 2018
+IP Build: 2185939 on Wed Apr  4 20:55:05 MDT 2018
+
+Process ID: 13528
+License: Customer
+
+Current time: 	Tue May 14 00:20:56 GMT+08:00 2019
+Time zone: 	GMT+08:00 (GMT+08:00)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 40 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.1/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.1/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	12043
+User home directory: C:/Users/12043
+User working directory: C:/archlabs/protect_3
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.1
+RDI_DATADIR: C:/Xilinx/Vivado/2018.1/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.1/bin
+
+Vivado preferences file location: C:/Users/12043/AppData/Roaming/Xilinx/Vivado/2018.1/vivado.xml
+Vivado preferences directory: C:/Users/12043/AppData/Roaming/Xilinx/Vivado/2018.1/
+Vivado layouts directory: C:/Users/12043/AppData/Roaming/Xilinx/Vivado/2018.1/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/archlabs/protect_3/vivado.log
+Vivado journal file location: 	C:/archlabs/protect_3/vivado.jou
+Engine tmp dir: 	C:/archlabs/protect_3/.Xil/Vivado-13528-LAPTOP-UQ0374PH
+
+GUI allocated memory:	165 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 542 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// [GUI Memory]: 17 MB (+15058kb) [00:00:05]
+// [Engine Memory]: 300 MB (+163375kb) [00:00:05]
+// [GUI Memory]: 21 MB (+3816kb) [00:00:10]
+// [GUI Memory]: 25 MB (+2636kb) [00:00:15]
+// [GUI Memory]: 28 MB (+2447kb) [00:00:20]
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// [GUI Memory]: 50 MB (+20640kb) [00:00:32]
+// [Engine Memory]: 513 MB (+206816kb) [00:00:32]
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: C:\archlabs\protect_3\protect_3.xpr. Version: Vivado v2018.1 
+// bv (ch):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// [GUI Memory]: 57 MB (+5595kb) [00:00:33]
+// Tcl Message: open_project C:/archlabs/protect_3/protect_3.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// HMemoryUtils.trashcanNow. Engine heap size: 558 MB. GUI used memory: 35 MB. Current time: 5/14/19 12:20:58 AM GMT+08:00
+// Tcl Message: open_project C:/archlabs/protect_3/protect_3.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// [Engine Memory]: 559 MB (+22249kb) [00:00:38]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.1/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 613 MB (+27038kb) [00:00:41]
+// Project name: protect_3; location: C:/archlabs/protect_3; part: xc7k325tffg676-2
+// [Engine Memory]: 644 MB (+379kb) [00:00:46]
+// Tcl Message: open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:13 . Memory (MB): peak = 812.109 ; gain = 99.215 
+dismissDialog("Open Project"); // bv (ch)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// [Engine Memory]: 678 MB (+1455kb) [00:00:54]
+// [GUI Memory]: 61 MB (+545kb) [00:01:24]
